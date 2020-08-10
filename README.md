@@ -1,11 +1,11 @@
 # Planktonics
 
-# Технологии:
+## Технологии:
 - ReactJS
 - NodeJS / Express
 - Socket.IO (frontend + backend)
 
-# Установка:
+## Установка:
 ```sh
 $ npm install
 $ node run server //запуск сервера
