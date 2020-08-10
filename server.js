@@ -66,5 +66,5 @@ server.listen(7777, (err) => {
   if (err) {
     throw Error(err);
   }
-  console.log('Сервер запущен!');
+  console.log('Server has been started');
 });
