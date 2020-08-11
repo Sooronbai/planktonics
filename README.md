@@ -8,6 +8,6 @@
 ## Установка:
 ```sh
 $ npm install
-$ node run server //запуск сервера
+$ npm run server //запуск сервера
 $ npm start //запуск фронта
 ```
